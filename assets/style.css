@@ -1,6 +1,22 @@
 body{
     background-color: beige;
+
 }
+
+#container{
+display:flex;
+}
+
+.cartao{
+    margin:1rem 1rem;
+}
+
+
+
+
+
+
+
 
 footer {
     background-color: black;
